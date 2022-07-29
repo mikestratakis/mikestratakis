@@ -5,7 +5,6 @@
 - 🤔 In my free time i also focus in web development, web design and game development...
 - 🔭 I’m currently working on my diploma thesis in the area of Computer Vision and Deep Neural Networks at National Technical University of Athens department of Electrical and Computer Engineering ...
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Stratakis-Michail"/>
 
 <b>Most used languages Inside Juputer</b>
 
